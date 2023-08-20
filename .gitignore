@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BFF.Web/bin/Debug/net6.0
+/BFF.Web/obj
+/Catalog.API/obj
+/Location.API/obj
+/Ordering.API/obj
